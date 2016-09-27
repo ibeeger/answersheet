@@ -2,7 +2,7 @@
   "name": "answersheet",
   "version": "1.0.0",
   "description": "生成A3答题卡",
-  "main": "index.js",
+  "main": "./libs/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,6 +16,9 @@
     "sheet",
     "A3"
   ],
+  "dependencies": {
+    "phantomjs": "^2.1.7"
+  },
   "author": "ibeeger",
   "license": "ISC",
   "bugs": {
