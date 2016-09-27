@@ -1,0 +1,25 @@
+{
+  "name": "answersheet",
+  "version": "1.0.0",
+  "description": "生成A3答题卡",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibeeger/answersheet.git"
+  },
+  "keywords": [
+    "answersheet",
+    "pdf",
+    "sheet",
+    "A3"
+  ],
+  "author": "ibeeger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibeeger/answersheet/issues"
+  },
+  "homepage": "https://github.com/ibeeger/answersheet#readme"
+}
